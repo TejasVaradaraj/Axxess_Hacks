@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/TejasVaradaraj/Axxess_Hacks#readme",
+  "bugs": {
+    "url": "https://github.com/TejasVaradaraj/Axxess_Hacks/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TejasVaradaraj/Axxess_Hacks.git"
+  },
+  "license": "ISC",
+  "author": "Tejas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.2"
+  }
+}
